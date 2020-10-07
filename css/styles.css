@@ -1,0 +1,29 @@
+body {
+   background-color: #EAF6F6;
+}
+
+h1 {
+  color: #66BFBF;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+img:hover {
+  background-color: pink;
+   border-radius: 50%;
+}
+
+hr {
+  margin: 50px auto;
+  border-color: grey;
+  border-style: dotted none none;
+  width: 5%;
+  border-width: 5px;
+}
+
+
+.contact {
+  margin: 30px;
+}
